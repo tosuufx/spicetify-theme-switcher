@@ -1,0 +1,5 @@
+So, before you start, you'll need spicetify (https://pastebin.com/YX831X4m)
+
+Execute the installation command, then go to :
+ C:\Users\USERNAME\.spicetify\themes\ 
+Then, drag and drop all the themes in the folder. And, boom ! You're done !
